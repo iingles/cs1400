@@ -1,0 +1,72 @@
+Year      President           Jobs      Party               
+____      __________          _____     _____               
+
+1961      John F. Kennedy     544752    Democrat            
+1962      John F. Kennedy     559836    Democrat            
+1963      John F. Kennedy     569092    Democrat            
+1964      Lyndon B. Johnson   584183    Democrat            
+1965      Lyndon B. Johnson   608226    Democrat            
+1966      Lyndon B. Johnson   637342    Democrat            
+1967      Lyndon B. Johnson   652882    Democrat            
+1968      Lyndon B. Johnson   672612    Democrat            
+1969      Richard Nixon       698181    Republican          
+1970      Richard Nixon       699809    Republican          
+1971      Richard Nixon       699806    Republican          
+1972      Richard Nixon       723861    Republican          
+1973      Richard Nixon       756463    Republican          
+1974      Gerald Ford         768954    Republican          
+1975      Gerald Ford         747020    Republican          
+1976      Gerald Ford         774081    Republican          
+1977      Jimmy Carter        808072    Democrat            
+1978      Jimmy Carter        852180    Democrat            
+1979      Jimmy Carter        886369    Democrat            
+1980      Jimmy Carter        889808    Democrat            
+1981      Ronald Reagan       901264    Republican          
+1982      Ronald Reagan       884311    Republican          
+1983      Ronald Reagan       891180    Republican          
+1984      Ronald Reagan       940403    Republican          
+1985      Ronald Reagan       971703    Republican          
+1986      Ronald Reagan       991615    Republican          
+1987      Ronald Reagan       1019159   Republican          
+1988      Ronald Reagan       1053631   Republican          
+1989      George H.W. Bush    1080999   Republican          
+1990      George H.W. Bush    1092905   Republican          
+1991      George H.W. Bush    1078047   Republican          
+1992      George H.W. Bush    1079246   Republican          
+1993      Bill Clinton        1102247   Democrat            
+1994      Bill Clinton        1140094   Democrat            
+1995      Bill Clinton        1174461   Democrat            
+1996      Bill Clinton        1202030   Democrat            
+1997      Bill Clinton        1237299   Democrat            
+1998      Bill Clinton        1272165   Democrat            
+1999      Bill Clinton        1304151   Democrat            
+2000      Bill Clinton        1332043   Democrat            
+2001      George W. Bush      1328516   Republican          
+2002      George W. Bush      1305977   Republican          
+2003      George W. Bush      1300987   Republican          
+2004      George W. Bush      1317615   Republican          
+2005      George W. Bush      1342679   Republican          
+2006      George W. Bush      1369392   Republican          
+2007      George W. Bush      1384503   Republican          
+2008      George W. Bush      1371452   Republican          
+2009      Barack Obama        1298772   Democrat            
+2010      Barack Obama        1288414   Democrat            
+2011      Barack Obama        1311056   Democrat            
+2012      Barack Obama        1111262   Democrat            
+
+Totals:
+total:              51613107            
+Democrats:          23039348            
+Republicans:        28573759            
+
+    
+	From the numbers given in the CSV file, unless there is an error that I missed, 
+    
+the data given shows the opposite of what Clinton said.
+    
+The data is very confusing; with conflicting reports across various articles; 
+    
+even the BLS data is difficult to interpret.  It seems as though it
+    
+depends on how 'employment' is defined and how it is used to gather the data.
+    

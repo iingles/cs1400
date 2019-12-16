@@ -1,0 +1,5 @@
+	1> To be, or not to be: that is the question:
+	2> Whether 'tis nobler in the mind to suffer
+	3> The slings and arrows of outrageous fortune,
+	4> Or to take arms against a sea of troubles,
+	5> And by opposing end them? To die: to sleep;
